@@ -14,7 +14,7 @@ To validate the main functionalities of the application and ensure proper behavi
 * Product management
 * Cart functionality
 
- Test Types
+   Test Types
 
 * Functional Testing
 * UI Testing
@@ -37,6 +37,17 @@ To validate the main functionalities of the application and ensure proper behavi
 
 * Add test execution results
 * Expand test coverage
+  
+  🔧 Tools Used
+- Browser: Google Chrome
+- OS: Windows
+- Documentation: Excel / Word
+
+   Testing Approach
+- Manual functional testing
+- Positive and negative testing
+- UI validation
+
 
 
 
